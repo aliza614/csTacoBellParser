@@ -54,5 +54,5 @@ namespace LoggingKata.Test
     }
     //Red-DONE
     //green -DONE
-    
+    //refactor-DONE
 }
